@@ -1,0 +1,7 @@
+C:\Users\aniket.bapat.ENG\Aniket\SimpleWebScraper\SimpleWebScrapper\bin\Debug\SimpleWebScrapper.exe.config
+C:\Users\aniket.bapat.ENG\Aniket\SimpleWebScraper\SimpleWebScrapper\bin\Debug\SimpleWebScrapper.exe
+C:\Users\aniket.bapat.ENG\Aniket\SimpleWebScraper\SimpleWebScrapper\bin\Debug\SimpleWebScrapper.pdb
+C:\Users\aniket.bapat.ENG\Aniket\SimpleWebScraper\SimpleWebScrapper\obj\Debug\SimpleWebScrapper.csprojAssemblyReference.cache
+C:\Users\aniket.bapat.ENG\Aniket\SimpleWebScraper\SimpleWebScrapper\obj\Debug\SimpleWebScrapper.csproj.CoreCompileInputs.cache
+C:\Users\aniket.bapat.ENG\Aniket\SimpleWebScraper\SimpleWebScrapper\obj\Debug\SimpleWebScrapper.exe
+C:\Users\aniket.bapat.ENG\Aniket\SimpleWebScraper\SimpleWebScrapper\obj\Debug\SimpleWebScrapper.pdb
